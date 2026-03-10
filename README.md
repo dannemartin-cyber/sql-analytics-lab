@@ -16,7 +16,8 @@ sql-analytics-lab/
   README.md
   schema/
     00_create_tables.sql
-    01_constraints_indexes.sql
+    01_seed_data.sql
+    02_constraints_indexes.sql
   queries/
     01_basics_refresh.sql
     02_joins_grouping.sql
