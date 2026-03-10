@@ -29,3 +29,27 @@ sql-analytics-lab/
       README.md
       kpis.sql
       cohort_retention.sql
+
+## Goal
+Show intermediate SQL ability that goes beyond basic SELECT statements and proves practical business and data value.
+
+## Business scenario
+This project uses a retail-style dataset with customers, products, orders, and order items to answer common business questions such as:
+- monthly revenue
+- top customers
+- product performance
+- customer retention
+- data quality issues
+
+## Highlights
+- business KPI reporting
+- customer retention logic
+- ranking and running totals
+- quality control queries
+- performance-minded schema design
+
+## Tech
+SQL using PostgreSQL-style syntax
+
+## Status
+In progress — being expanded into a full analytics lab with documented case studies.
